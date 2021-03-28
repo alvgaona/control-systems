@@ -1,0 +1,28 @@
+*           text=auto whitespace=trailing-space,space-before-tab,-indent-with-non-tab,tab-in-indent,tabwidth=4
+
+*.fig       binary
+*.mat       binary
+*.mdl       binary
+*.mdlp      binary
+*.mexa64    binary
+*.mexw64    binary
+*.mexmaci64 binary
+*.mlapp     binary
+*.mldatx    binary
+*.mlproj    binary
+*.mlx       binary
+*.p         binary
+*.sfx       binary
+*.sldd      binary
+*.slreqx    binary
+*.slmx      binary
+*.sltx      binary
+*.slx       binary merge=mlAutoMerge
+*.slxp      binary
+
+## Other common binary file types
+*.jpg       binary
+*.pdf       binary
+*.png       binary
+*.gif       binary
+*.jpeg      binary
